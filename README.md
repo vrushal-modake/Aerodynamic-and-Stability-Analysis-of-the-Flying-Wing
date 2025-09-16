@@ -27,5 +27,3 @@ This repository presents the design, simulation, and analysis of a **tailless fl
 
 ---
 
-## 📂 Suggested Repository Structure
-
