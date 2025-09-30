@@ -1,14 +1,14 @@
-# 🛩️ Aerodynamic and Stability Analysis of the Flying Wing Effect of Elevon Trim and Winglet Cant Angle Variation
+## 🛩️ Aerodynamic and Stability Analysis of the Flying Wing Effect of Elevon Trim and Winglet Cant Angle Variation
 
 ⚠️ **Note:** All Results and figures in this repository are original work. Please **do not copy, distribute, or use** them without prior permission from the author 
 📬 **How to reach me**: [📩 Mail](mailto:modake21@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/vrushal-modake-486a2b206/) . 
 
-## 🎯 Objective  
+### 🎯 Objective  
 To analyze and optimize the aerodynamic efficiency and stability of a **tailless flying wing aircraft** by studying the effect of variable **winglet cant angles** and **elevon trim adjustments**.  
 
 ---
 
-## 🧪 Methodology  
+### 🧪 Methodology  
 - **Design & Geometry**: Flying wing UAV with variable winglet cant angles (5°, 30°, 60°, 90°).  
 - **Simulation Tools**: CFD for aerodynamic performance, XFLR5 and MATLAB for stability analysis.  
 - **Analysis Performed**:  
@@ -19,7 +19,7 @@ To analyze and optimize the aerodynamic efficiency and stability of a **tailless
 
 ---
 
-## 📊 Results  
+### 📊 Results  
 - **Low cant angles (5° & 30°):** Higher aerodynamic efficiency with **L/D up to 18.3**, but reduced lateral stability.  
 - **High cant angles (60° & 90°):** Improved Dutch roll and spiral damping, but at the cost of higher drag.  
 - **Elevon trimming:** Restored trim conditions across all winglet angles and stabilized Dutch roll at low cant angles.  
@@ -28,7 +28,7 @@ To analyze and optimize the aerodynamic efficiency and stability of a **tailless
 
 ---
 
-## 💬 Discussion  
+### 💬 Discussion  
 - There is a clear **trade-off** between aerodynamic efficiency and lateral stability.  
 - Lower cant angles favor **efficiency** but compromise **stability**, requiring control surface adjustments.  
 - Higher cant angles enhance **stability**, but drag penalties reduce aerodynamic performance.  
@@ -36,7 +36,7 @@ To analyze and optimize the aerodynamic efficiency and stability of a **tailless
 
 ---
 
-## ✅ Conclusion  
+### ✅ Conclusion  
 The study demonstrates that **variable winglet positions** significantly impact the aerodynamic and stability characteristics of flying wing aircraft.  
 - **Optimal compromise:** Cant angles around **30°–60°** offer a balance between aerodynamic efficiency and stability.  
 - **Control integration:** Elevon trimming is an effective method to stabilize Dutch roll instabilities at lower cant angles.  
@@ -44,7 +44,7 @@ The study demonstrates that **variable winglet positions** significantly impact 
 
 ---
 
-## 📎 Appendix  
+### 📎 Appendix  
 
 ### Figure 1: Flying Wing Geometry (mm)
   <img width="285" height="150" alt="Flyingwing" src="https://github.com/user-attachments/assets/5e54dbef-9ecd-4efb-9919-5f6b5f958b76" />
